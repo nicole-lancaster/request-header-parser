@@ -1,6 +1,3 @@
-![image](https://github.com/nicole-lancaster/request-header-parser/assets/116457977/fa720f23-aca7-480a-9a82-6183f5e8c061)
-
-
 # Request Header Parser Microservice
 
 A simple microservice to parse request headers, published on Replit here --> https://replit.com/@nicole-lancaste/request-header-parser
